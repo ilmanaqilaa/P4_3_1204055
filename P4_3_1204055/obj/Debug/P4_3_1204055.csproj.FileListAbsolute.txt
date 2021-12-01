@@ -1,0 +1,9 @@
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Pemrograman II\Tugas IV\P4_3_1204055\P4_3_1204055\bin\Debug\P4_3_1204055.exe.config
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Pemrograman II\Tugas IV\P4_3_1204055\P4_3_1204055\bin\Debug\P4_3_1204055.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Pemrograman II\Tugas IV\P4_3_1204055\P4_3_1204055\bin\Debug\P4_3_1204055.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Pemrograman II\Tugas IV\P4_3_1204055\P4_3_1204055\obj\Debug\P4_3_1204055.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Pemrograman II\Tugas IV\P4_3_1204055\P4_3_1204055\obj\Debug\P4_3_1204055.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Pemrograman II\Tugas IV\P4_3_1204055\P4_3_1204055\obj\Debug\P4_3_1204055.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Pemrograman II\Tugas IV\P4_3_1204055\P4_3_1204055\obj\Debug\P4_3_1204055.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Pemrograman II\Tugas IV\P4_3_1204055\P4_3_1204055\obj\Debug\P4_3_1204055.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Pemrograman II\Tugas IV\P4_3_1204055\P4_3_1204055\obj\Debug\P4_3_1204055.pdb
